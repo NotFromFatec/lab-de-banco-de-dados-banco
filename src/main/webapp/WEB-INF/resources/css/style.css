@@ -1,0 +1,15 @@
+.tabela-personalizada>:not(caption)>*>* {
+    background-color: #212529 !important;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    border-style: none !important;
+}
+
+.btn-dark{
+	background-color: red !important;
+}
+
+*{
+	box-sizing: border-box;
+}
